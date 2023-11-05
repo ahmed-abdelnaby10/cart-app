@@ -1,6 +1,11 @@
-You can find this Project in ths site >>> http://economic-ocean.surge.sh
+# You can find this Project in ths site >>> http://economic-ocean.surge.sh
 
-Notice that this app doesn't complete . Still working on it ot improve it's features
+# Notice that this app doesn't complete . Still working on it ot improve it's features
+
+# our plans to improve this app :
+### Add Payment page 
+### Make user able to sign in with Google , Facebook & E-mail
+### Improve its UI Designs it is all now about logic not design but soon we will working on it
 
 # Getting Started with Create React App
 
